@@ -32,6 +32,7 @@
   top: 0;
   right: 0;
   z-index: 1;
+  margin-bottom: 6rem;
 
   .container{
     display: flex;
