@@ -1,10 +1,12 @@
-<script lang="ts" setup></script>
+<script lang="ts" setup>
+import SportHeader from "~/components/layout/SportHeader.vue";
+import SportFooter from "~/components/layout/SportFooter.vue";
+</script>
 
 <template>
-  <div class = "container">
-    Layout: default
+    <sport-header />
     <slot />
-  </div>
+    <sport-footer />
 </template>
 
 <style></style>
