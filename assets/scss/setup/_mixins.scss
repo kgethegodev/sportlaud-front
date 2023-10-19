@@ -1,0 +1,13 @@
+@mixin font($size,$line-height,$weight) {
+  font-size: #{$size}rem;
+  @if $line-height {
+    line-height: #{$line-height};
+  }
+  @if $weight {
+    font-weight: var(--font-weight-#{$weight});
+  }
+}
+
+@mixin main_transition{
+  transition: 0.25s ease-in-out;
+}
