@@ -6,9 +6,9 @@ html {
     font-size: 1.6rem;
     font-weight: var(--font-weight-regular);
     line-height: 1.5;
-    font-family: 'Fira Code', monospace;
-    background: var(--color-grey);
-    color: var(--color-white);
+    font-family: 'Josefin Sans', sans-serif;
+    background: var(--color-white);
+    color: var(--color-grey);
   }
   h1{
     font-size: 4.6rem;
@@ -17,7 +17,7 @@ html {
     margin-bottom: 4rem;
     span{
       font-weight: var(--font-weight-bold);
-      color: var(--color-crimson-red)
+      color: var(--color-royal-blue)
     }
   }
   p{

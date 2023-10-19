@@ -25,15 +25,14 @@ const props = defineProps(
 .main-button{
   padding: 1rem 2rem;
   border-radius: 1rem;
-  background: var(--color-crimson-red);
+  background: var(--color-grey);
   color: var(--color-white);
   display: inline-block;
   text-decoration: none;
   transition: 0.3s ease;
 
   &:hover{
-    background: var(--color-white);
-    color: var(--color-crimson-red);
+    background: var(--color-royal-blue);
   }
 }
 </style>
