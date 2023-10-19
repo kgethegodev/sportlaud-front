@@ -1,11 +1,13 @@
 :root {
-  --color-peachy-cream: #FEE3D3;
-  --color-charcoal-gray: #373A36;
-  --color-white: #FFFFFF;
-  --color-crimson-red: #C93D3F;
+  //colors
+  --color-grey:         #171717;
+  --color-grey-dark:    #111111;
+  --color-grey-light:   #1E1E1E;
+  --color-white:        #FFFFFF;
+  --color-crimson-red:  #FF2742;
 
   //font-weights
-  --font-weight-thin: 100;
-  --font-weight-regular: 400;
-  --font-weight-bold: 600;
+  --font-weight-thin:     100;
+  --font-weight-regular:  400;
+  --font-weight-bold:     600;
 }
