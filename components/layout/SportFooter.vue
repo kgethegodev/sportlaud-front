@@ -54,7 +54,7 @@
 
     .sport-copyright{
       font-size: 1rem;
-      color: var(--color-white);
+      color: var(--color-grey-light);
     }
 
     .footer-socials-container{
@@ -72,13 +72,13 @@
     gap: 2rem;
 
     .footer-menu-item{
-      color: var(--color-white);
+      color: var(--color-grey-light);
       font-size: 1.6rem;
       text-decoration: none;
       transition: 0.3s ease;
 
       &:hover{
-        color: var(--color-crimson-red);
+        color: var(--color-royal-blue);
       }
     }
   }
