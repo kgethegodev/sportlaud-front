@@ -11,7 +11,7 @@
 
         <div class="button-row">
           <main-button text="Book now" href="/" />
-          <main-button text="Become a trainer" href="/" />
+          <main-button text="Become a trainer" href="register" />
         </div>
 
       </div>
