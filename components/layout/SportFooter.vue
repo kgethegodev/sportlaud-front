@@ -40,6 +40,8 @@
 .footer-container{
   padding: 2rem 0;
   background: var(--color-grey-dark);
+  z-index: 2;
+  position: relative;
 
   .container{
     display: flex;

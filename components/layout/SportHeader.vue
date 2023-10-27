@@ -31,7 +31,7 @@
   position: sticky;
   top: 0;
   right: 0;
-  z-index: 1;
+  z-index: 2;
   margin-bottom: 6rem;
 
   .container{
